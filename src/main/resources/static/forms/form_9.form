@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# El animal es apto para liberación?",
+      "type": "text",
+      "id": "Field_1ymzbr0"
+    },
+    {
+      "values": [
+        {
+          "label": "Si",
+          "value": "si"
+        },
+        {
+          "label": "No",
+          "value": "no"
+        }
+      ],
+      "type": "radio",
+      "id": "Field_1ximj0c",
+      "key": "liberar"
+    }
+  ],
+  "type": "default",
+  "id": "form_9"
+}

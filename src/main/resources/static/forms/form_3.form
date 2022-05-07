@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Animal en buen estado de salud?",
+      "type": "text",
+      "id": "Field_0j2ae88"
+    },
+    {
+      "values": [
+        {
+          "label": "Si",
+          "value": "si"
+        },
+        {
+          "label": "No",
+          "value": "no"
+        }
+      ],
+      "type": "radio",
+      "id": "Field_1j65g5u",
+      "key": "estado"
+    }
+  ],
+  "type": "default",
+  "id": "form_3"
+}

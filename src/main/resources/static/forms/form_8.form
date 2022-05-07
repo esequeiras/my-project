@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Datos de Liberación",
+      "type": "text",
+      "id": "Field_1yqbzro"
+    },
+    {
+      "label": "Lugar de liberación",
+      "type": "textfield",
+      "id": "Field_12oma2p",
+      "key": "lugarLiberacion"
+    },
+    {
+      "label": "Día",
+      "type": "textfield",
+      "id": "Field_1yjirgw",
+      "key": "diaLiberacion"
+    }
+  ],
+  "type": "default",
+  "id": "form_8"
+}

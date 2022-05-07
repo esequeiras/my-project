@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Enviando a centro de Conservación",
+      "type": "text",
+      "id": "Field_10wdrhe"
+    },
+    {
+      "label": "Animal",
+      "type": "textfield",
+      "id": "Field_0krykfb",
+      "key": "tipoAnimal"
+    },
+    {
+      "label": "Id Animal",
+      "type": "textfield",
+      "id": "Field_1bzml8c",
+      "key": "idAnimal"
+    },
+    {
+      "label": "Expediente",
+      "type": "textfield",
+      "id": "Field_1fjjst5",
+      "key": "expediente"
+    }
+  ],
+  "type": "default",
+  "id": "form_12"
+}

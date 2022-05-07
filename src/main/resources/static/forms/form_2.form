@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Control De Salud",
+      "type": "text",
+      "id": "Field_1qmky3p"
+    },
+    {
+      "label": "ID Expediente",
+      "type": "textfield",
+      "id": "Field_1czlecw",
+      "key": "idExpediente"
+    },
+    {
+      "label": "Fecha De Control",
+      "type": "textfield",
+      "id": "Field_12fgwyc",
+      "key": "fechaControl"
+    },
+    {
+      "label": "Peso del Animal",
+      "type": "textfield",
+      "id": "Field_0zyhbz9",
+      "key": "peso"
+    },
+    {
+      "label": "Enfermedades",
+      "type": "textfield",
+      "id": "Field_0jqqqq0",
+      "key": "enfermedades"
+    },
+    {
+      "label": "Comportamiento",
+      "type": "textfield",
+      "id": "Field_1u76oup",
+      "key": "comportamiento"
+    },
+    {
+      "values": [
+        {
+          "value": "buena",
+          "label": "Buena"
+        },
+        {
+          "label": "Mala",
+          "value": "mala"
+        }
+      ],
+      "label": "Condición",
+      "type": "select",
+      "id": "Field_1tzqujj",
+      "key": "condicion",
+      "validate": {
+        "required": true
+      }
+    }
+  ],
+  "type": "default",
+  "id": "form_2"
+}

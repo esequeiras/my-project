@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Información de Cirugía",
+      "type": "text",
+      "id": "Field_1ii5bel"
+    },
+    {
+      "label": "Datos sobre Cirugía",
+      "type": "textfield",
+      "id": "Field_1hpsukl",
+      "key": "datosCirugia"
+    },
+    {
+      "values": [
+        {
+          "label": "My Grave",
+          "value": "muygrave"
+        },
+        {
+          "label": "Grave",
+          "value": "grave"
+        },
+        {
+          "value": "nograve",
+          "label": "No es grave"
+        }
+      ],
+      "label": "Gravedad de la cirugia",
+      "type": "select",
+      "id": "Field_0dbbnov",
+      "key": "gravedadCirugia"
+    }
+  ],
+  "type": "default",
+  "id": "form_5"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Registrar Animal",
+      "type": "text",
+      "id": "Field_1m8c6pm"
+    },
+    {
+      "label": "Tipo Animal",
+      "type": "textfield",
+      "id": "Field_01e4z8q",
+      "key": "tipoAnimal"
+    },
+    {
+      "label": "Raza",
+      "type": "textfield",
+      "id": "Field_0l3qvg1",
+      "key": "raza"
+    },
+    {
+      "label": "sexo",
+      "type": "textfield",
+      "id": "Field_1f0g5d9",
+      "key": "sexo"
+    },
+    {
+      "label": "Procedencia",
+      "type": "textfield",
+      "id": "Field_0abbnun",
+      "key": "procedencia"
+    }
+  ],
+  "type": "default",
+  "id": "form_1"
+}

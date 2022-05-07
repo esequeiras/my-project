@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Animal en recuperacion...",
+      "type": "text",
+      "id": "Field_0nc88j4"
+    },
+    {
+      "type": "textfield",
+      "id": "Field_0bi1guk",
+      "key": "tiempoRecuperacion"
+    }
+  ],
+  "type": "default",
+  "id": "form_6"
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# La Reproducción fue exitosa?",
+      "type": "text",
+      "id": "Field_0aahtzr"
+    },
+    {
+      "values": [
+        {
+          "label": "Si",
+          "value": "si"
+        },
+        {
+          "label": "No",
+          "value": "no"
+        }
+      ],
+      "type": "radio",
+      "id": "Field_1c3yj6y",
+      "key": "exitoReproduccion"
+    }
+  ],
+  "type": "default",
+  "id": "form_14"
+}

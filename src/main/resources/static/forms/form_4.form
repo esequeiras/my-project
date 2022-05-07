@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Tratamiento a seguir",
+      "type": "text",
+      "id": "Field_03dwib2"
+    },
+    {
+      "label": "Indicaciones",
+      "type": "textfield",
+      "id": "Field_1urxk7k",
+      "key": "tratamiento"
+    },
+    {
+      "values": [
+        {
+          "label": "Si",
+          "value": "si"
+        },
+        {
+          "label": "No",
+          "value": "no"
+        }
+      ],
+      "label": "Necesita Cirugía?",
+      "type": "radio",
+      "id": "Field_0vq1j80",
+      "key": "cirugia"
+    }
+  ],
+  "type": "default",
+  "id": "form_4"
+}

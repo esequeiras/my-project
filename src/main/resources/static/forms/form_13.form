@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Enviar a Centro de reproducción",
+      "type": "text",
+      "id": "Field_1jd58nm"
+    },
+    {
+      "label": "Día",
+      "type": "textfield",
+      "id": "Field_0dq3pkb",
+      "key": "fechaReproduccion"
+    },
+    {
+      "label": "Esado del animal",
+      "type": "textfield",
+      "id": "Field_1wjk0rs",
+      "key": "estadoReproduccion"
+    }
+  ],
+  "type": "default",
+  "id": "form_13"
+}

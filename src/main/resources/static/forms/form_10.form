@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Liberando Animal...",
+      "type": "text",
+      "id": "Field_09zh4km"
+    },
+    {
+      "label": "Id animal",
+      "type": "textfield",
+      "id": "Field_0w3obpq",
+      "key": "idAnimal"
+    },
+    {
+      "label": "Animal",
+      "type": "textfield",
+      "id": "Field_1c85eo7",
+      "key": "tipoAnimal"
+    },
+    {
+      "label": "Expediente",
+      "type": "textfield",
+      "id": "Field_1yyyqmj",
+      "key": "expediente"
+    },
+    {
+      "label": "Fecha de liberacion",
+      "type": "textfield",
+      "id": "Field_02ukpn3",
+      "key": "fechaLiberacion"
+    }
+  ],
+  "type": "default",
+  "id": "form_10"
+}
